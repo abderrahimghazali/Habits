@@ -30,13 +30,13 @@ A simple and elegant habit tracking app for iOS that helps you build and maintai
 ## Screenshots
 
 ### Main App View
-![Main App](https://i.imgur.com/itx57mx.png)
+<img src="https://i.imgur.com/itx57mx.png" alt="Main App" width="30%">
 
 ### Habit Selection
-![Habit Logging](https://i.imgur.com/3sOgKmP.png)
+<img src="https://i.imgur.com/3sOgKmP.png" alt="Habit Logging" width="30%">
 
 ### Settings & Configuration
-![Settings](https://i.imgur.com/lug7mv3.png)
+<img src="https://i.imgur.com/lug7mv3.png" alt="Settings" width="30%">
 
 ## How It Works
 
